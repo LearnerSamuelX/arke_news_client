@@ -29,7 +29,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center p-24">
       <div className={`mb-3 text-2xl font-semibold`}>
-        <h1>Bias Detector</h1>
+        <h1>Text Bias Detector</h1>
       </div>
       {/* <div className="w-full max-w-lg mx-auto mt-4"> */}
       <div className="w-3/4 max-w-2xl mx-auto mt-4">
